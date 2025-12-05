@@ -1,6 +1,6 @@
 # Agent
 
-This project demonstrates creating an intelligent agent that uses the local language model [qwen3:8b] through [Ollama] and performs various tasks using special tools.
+This project demonstrates creating an intelligent agent that uses the local language model qwen3:8b through Ollama and performs various tasks using special tools.
 
 ## Agent Capabilities
 
@@ -15,7 +15,7 @@ The agent can:
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.12
 - Ollama with model qwen3:8b
 - uv
 
