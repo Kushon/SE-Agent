@@ -36,6 +36,5 @@ ollama pull qwen3:8b
 
 Run the project:
 ```bash
-uv sync
-uv run uvicorn main:app
+uv run main.py
 ```
